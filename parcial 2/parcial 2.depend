@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1650578611 source:c:\users\50251\proyectos\parcial 2\parcial 2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<cstdlib>
+	<iomanip>
+	<iostream>
+	<ctime>
+	<vector>
+	<fstream>
+
